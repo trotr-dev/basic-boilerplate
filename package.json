@@ -1,0 +1,32 @@
+{
+  "name": "basic-boilerplate",
+  "version": "1.0.0",
+  "description": "basic boilerplate express web trotr-dev",
+  "main": "./src/server/index.js",
+  "scripts": {
+    "dev": "nodemon ./src/server/index.js",
+    "start": "node ./src/server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trotr-dev/basic-boilerplate.git"
+  },
+  "keywords": [
+    "express-boilerplate"
+  ],
+  "author": "C.A Sugianto",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/trotr-dev/basic-boilerplate/issues"
+  },
+  "homepage": "https://github.com/trotr-dev/basic-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.2.1",
+    "mongoose": "^5.10.9"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.5"
+  }
+}
