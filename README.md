@@ -1,7 +1,6 @@
 # Basic Express Project Boilerplate
 ## Installation
 
-clone this repository, 
 ```bash
 $ git clone https://github.com/trotr-dev/basic-boilerplate.git
 $ cd basic-boilerplate
